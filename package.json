@@ -1,6 +1,6 @@
 {
   "name": "particle-throttled",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A rate-limited node library to interface with the Particle Cloud",
   "main": "index.js",
   "scripts": {
