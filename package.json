@@ -1,7 +1,7 @@
 {
   "name": "particle-throttled",
   "version": "1.0.0",
-  "description": "a rate-limited node library to interface with the Particle Cloud",
+  "description": "A rate-limited node library to interface with the Particle Cloud",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,11 @@
   },
   "keywords": [
     "particle",
-    "rate-limited"
+    "particle api",
+    "particle cloud",
+    "rate-limited",
+    "throttled",
+    "spark api"
   ],
   "author": "YashdalfTheGray",
   "license": "MIT",
